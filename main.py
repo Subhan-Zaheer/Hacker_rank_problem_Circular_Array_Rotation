@@ -19,4 +19,4 @@ def circularArrayRotation(a, k, queries):
         print(a[i])
 
 
-circularArrayRotation([1, 2, 3], 2, [1, 2])
+circularArrayRotation([1, 2, 3, 4], 2, [1, 2])
